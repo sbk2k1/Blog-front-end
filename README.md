@@ -1,3 +1,7 @@
+This is a template blog website front end. Back end in the making. May make use of letter
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
