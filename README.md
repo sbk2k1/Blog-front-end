@@ -1,4 +1,4 @@
-This is a template blog website front end. Back end in the making. May make use of letter
+This is a template blog website front end. Will link backend later
 
 
 
